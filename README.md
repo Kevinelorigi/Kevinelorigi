@@ -12,7 +12,7 @@ _About me:_
 _**My Skills**_
 
 <p>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS Logo" width="50" height="20"> - TailwindCSS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS Logo" width="50" height="35"> - TailwindCSS
 </p>
 
 
