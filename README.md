@@ -19,8 +19,8 @@ _**My Skills**_
 <img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="React Logo" height="40">
 <img width="12" />
 </div>
-## 
-_Contact me:_
+
+## _Contact me:_
 <a href="https://www.linkedin.com/in/kevin-jos%C3%A9-vega-navas-462aa1259/">
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/linkedin_logo-freelogovectors.net_.png" alt="LinkedIn Logo" height="40">
 <img width="12" />
