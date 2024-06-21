@@ -1,9 +1,11 @@
 ## Kevin Vega
 <!---->
-Full Stack Developer
+
+ _Full Stack Developer_
+ 
 <!---->
 
-_My Portfolio_ * [Portfolio](portfolio-app-nine-lovat.vercel.app)
+_My Portfolio_  [Portfolio](portfolio-app-nine-lovat.vercel.app)
 
 <!---->
 
