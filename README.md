@@ -4,10 +4,7 @@
 ## _Full Stack Developer_
  
 <!---->
-
-_My Portfolio_  [Portfolio](portfolio-app-nine-lovat.vercel.app)
-
-<!---->
+_**My Portfolio**_  [Portfolio](portfolio-app-nine-lovat.vercel.app)
 ##
 _About me:_
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **I am 22 years old.**
