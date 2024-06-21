@@ -10,8 +10,9 @@ _About me:_
 * **I am 22 years old.**
 
 _**My Skills**_
+
 <p>
-<img src="https://github.com/Kevinelorigi/Kevinelorigi/assets/89889506/7d63e636-8174-4a74-b571-3acbb0a8c25e" alt="Tailwind CSS Logo" width="200"> - TailwindCSS
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS Logo" width="200"> - TailwindCSS
 </p>
 
 
