@@ -16,6 +16,8 @@ _**My Skills**_
 <img width="12" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React Logo" height="40">
 <img width="12" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" alt="React Logo" height="40">
+<img width="12" />
 </div>
 
 
