@@ -21,7 +21,7 @@ _**My Skills**_
 </div>
 
 ## _Contact me:_
-<a href="https://www.linkedin.com/in/kevin-jos%C3%A9-vega-navas-462aa1259/">
+<a href="https://www.linkedin.com/in/kevin-vega-462aa1259/">
  <img src="https://cdn.freelogovectors.net/wp-content/uploads/2023/04/linkedin_logo-freelogovectors.net_.png" alt="LinkedIn Logo" height="40">
 <img width="12" />
 </a>
