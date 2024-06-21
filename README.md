@@ -1,7 +1,7 @@
 ## Kevin Vega
 <!---->
 
- _Full Stack Developer_
+## _Full Stack Developer_
  
 <!---->
 
