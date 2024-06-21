@@ -11,7 +11,7 @@ _About me:_
 
 _**My Skills**_
 
-<img src="https://github.com/Kevinelorigi/Kevinelorigi/assets/89889506/7d63e636-8174-4a74-b571-3acbb0a8c25e" alt="Tailwind CSS Logo" width="50" height="30">
+<img src="https://github.com/Kevinelorigi/Kevinelorigi/assets/89889506/7d63e636-8174-4a74-b571-3acbb0a8c25e" alt="Tailwind CSS Logo" width="200"> - TailwindCSS
 
 
 
