@@ -11,6 +11,7 @@ _About me:_
 
 _**My Skills**_
 
-<image src="https://picsum.photos/800/600" alt="Descripción de la imagen">
+<img src="https://github.com/Kevinelorigi/Kevinelorigi/assets/89889506/7d63e636-8174-4a74-b571-3acbb0a8c25e" alt="Tailwind CSS Logo" width="200" height="200">
+
 
 
